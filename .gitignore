@@ -1,6 +1,7 @@
 # Data files
 data/*
 homeless_LA-master/*
+shinydashboard/*
 
 # Other files to ignore
 .zip

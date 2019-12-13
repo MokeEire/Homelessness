@@ -1,9 +1,13 @@
 ---
 title: "Homelessness in Los Angeles"
-output: 
-  html_notebook: 
-    theme: flatly
+output:
+  html_document:
+    df_print: paged
     code_folding: hide
+    theme: flatly
+  html_notebook:
+    code_folding: hide
+    theme: flatly
 ---
 
 ```{r setup, include=F}
